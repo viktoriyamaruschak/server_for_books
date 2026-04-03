@@ -1,0 +1,902 @@
+[
+  {
+    "id": "1",
+    "title": "The Iron Heel",
+    "author": "Jack London",
+    "genre": "Dystopian Classic",
+    "year": 1907,
+    "description": "\"The Iron Heel\" is a notable work by Jack London, first published in 1907. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243314-M.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Brood of the Witch-Queen",
+    "author": "Sax Rohmer",
+    "genre": "Occult Mystery",
+    "year": 1924,
+    "description": "\"Brood of the Witch-Queen\" is a notable work by Sax Rohmer, first published in 1924. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/2011286-M.jpg"
+  },
+  {
+    "id": "3",
+    "title": "The Narrative of Arthur Gordon Pym",
+    "author": "Edgar Allan Poe",
+    "genre": "Adventure / Horror",
+    "year": 1838,
+    "description": "\"The Narrative of Arthur Gordon Pym\" is a notable work by Edgar Allan Poe, first published in 1838. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/7160877-M.jpg"
+  },
+  {
+    "id": "4",
+    "title": "The Napoleon of Notting Hill",
+    "author": "Gilbert Keith Chesterton",
+    "genre": "Political Satire",
+    "year": 1904,
+    "description": "\"The Napoleon of Notting Hill\" is a notable work by Gilbert Keith Chesterton, first published in 1904. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/6980094-M.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Emily of New Moon",
+    "author": "Lucy Maud Montgomery",
+    "genre": "Coming-of-Age Romance",
+    "year": 1923,
+    "description": "\"Emily of New Moon\" is a notable work by Lucy Maud Montgomery, first published in 1923. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/14638065-M.jpg"
+  },
+  {
+    "id": "6",
+    "title": "The Vampyre",
+    "author": "John William Polidori",
+    "genre": "Gothic Fiction",
+    "year": 1819,
+    "description": "\"The Vampyre\" is a notable work by John William Polidori, first published in 1819. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/4871002-M.jpg"
+  },
+  {
+    "id": "7",
+    "title": "The Sea Fairies",
+    "author": "L. Frank Baum",
+    "genre": "Children's Fantasy",
+    "year": 1911,
+    "description": "\"The Sea Fairies\" is a notable work by L. Frank Baum, first published in 1911. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/1814237-M.jpg"
+  },
+  {
+    "id": "8",
+    "title": "The Enchanted Castle",
+    "author": "Edith Nesbit",
+    "genre": "Children's Fantasy",
+    "year": 1907,
+    "description": "\"The Enchanted Castle\" is a notable work by Edith Nesbit, first published in 1907. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/6644514-M.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Pollyanna",
+    "author": "Eleanor Hodgman Porter",
+    "genre": "Classic Literature",
+    "year": 1912,
+    "description": "\"Pollyanna\" is a notable work by Eleanor Hodgman Porter, first published in 1912. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/902113-M.jpg"
+  },
+  {
+    "id": "10",
+    "title": "Игрокъ",
+    "author": "Фёдор Михайлович Достоевский",
+    "genre": "Psychological Novel",
+    "year": 1866,
+    "description": "\"Игрокъ\" is a notable work by Фёдор Михайлович Достоевский, first published in 1866. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/3293339-M.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Anne of the Island",
+    "author": "Lucy Maud Montgomery",
+    "genre": "Coming-of-Age Romance",
+    "year": 1826,
+    "description": "\"Anne of the Island\" is a notable work by Lucy Maud Montgomery, first published in 1826. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/14639028-M.jpg"
+  },
+  {
+    "id": "12",
+    "title": "Lilith",
+    "author": "George MacDonald",
+    "genre": "Dark Fantasy",
+    "year": 1895,
+    "description": "\"Lilith\" is a notable work by George MacDonald, first published in 1895. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/14364546-M.jpg"
+  },
+  {
+    "id": "13",
+    "title": "Anthem",
+    "author": "Ayn Rand",
+    "genre": "Dystopian Sci-Fi",
+    "year": 1936,
+    "description": "\"Anthem\" is a notable work by Ayn Rand, first published in 1936. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/802982-M.jpg"
+  },
+  {
+    "id": "14",
+    "title": "Le roman du masque de fer",
+    "author": "Alexandre Dumas",
+    "genre": "Historical Fiction",
+    "year": 1600,
+    "description": "\"Le roman du masque de fer\" is a notable work by Alexandre Dumas, first published in 1600. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/2132494-M.jpg"
+  },
+  {
+    "id": "15",
+    "title": "Tarzan of the Apes",
+    "author": "Edgar Rice Burroughs",
+    "genre": "Adventure",
+    "year": 1912,
+    "description": "\"Tarzan of the Apes\" is a notable work by Edgar Rice Burroughs, first published in 1912. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/6608849-M.jpg"
+  },
+  {
+    "id": "16",
+    "title": "The Road to Oz",
+    "author": "L. Frank Baum",
+    "genre": "Fantasy Adventure",
+    "year": 1909,
+    "description": "\"The Road to Oz\" is a notable work by L. Frank Baum, first published in 1909. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243922-M.jpg"
+  },
+  {
+    "id": "17",
+    "title": "The Canterville Ghost",
+    "author": "Oscar Wilde",
+    "genre": "Gothic Satire",
+    "year": 1887,
+    "description": "\"The Canterville Ghost\" is a notable work by Oscar Wilde, first published in 1887. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/6960817-M.jpg"
+  },
+  {
+    "id": "18",
+    "title": "The food of the gods and how it came to earth",
+    "author": "H. G. Wells",
+    "genre": "Science Fiction",
+    "year": 1900,
+    "description": "\"The food of the gods and how it came to earth\" is a notable work by H. G. Wells, first published in 1900. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/314687-M.jpg"
+  },
+  {
+    "id": "19",
+    "title": "Martin Eden",
+    "author": "Jack London",
+    "genre": "Literary Fiction",
+    "year": 1908,
+    "description": "\"Martin Eden\" is a notable work by Jack London, first published in 1908. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/9223765-M.jpg"
+  },
+  {
+    "id": "20",
+    "title": "The Last Man",
+    "author": "Mary Shelley",
+    "genre": "Apocalyptic Science Fiction",
+    "year": 1826,
+    "description": "\"The Last Man\" is a notable work by Mary Shelley, first published in 1826. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/882662-M.jpg"
+  },
+  {
+    "id": "21",
+    "title": "Anne of Windy Poplars",
+    "author": "Lucy Maud Montgomery",
+    "genre": "Coming-of-Age",
+    "year": 1900,
+    "description": "\"Anne of Windy Poplars\" is a notable work by Lucy Maud Montgomery, first published in 1900. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/14640411-M.jpg"
+  },
+  {
+    "id": "22",
+    "title": "The blue castle",
+    "author": "Lucy Maud Montgomery",
+    "genre": "Romance Novel",
+    "year": 1926,
+    "description": "\"The blue castle\" is a notable work by Lucy Maud Montgomery, first published in 1926. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/14640067-M.jpg"
+  },
+  {
+    "id": "23",
+    "title": "Phantastes",
+    "author": "George MacDonald",
+    "genre": "Fantasy",
+    "year": 1850,
+    "description": "\"Phantastes\" is a notable work by George MacDonald, first published in 1850. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/14358814-M.jpg"
+  },
+  {
+    "id": "24",
+    "title": "Just So Stories",
+    "author": "Rudyard Kipling",
+    "genre": "Children's Fables",
+    "year": 1922,
+    "description": "\"Just So Stories\" is a notable work by Rudyard Kipling, first published in 1922. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/36215-M.jpg"
+  },
+  {
+    "id": "25",
+    "title": "A Modern Utopia",
+    "author": "H. G. Wells",
+    "genre": "Utopian Science Fiction",
+    "year": 1900,
+    "description": "\"A Modern Utopia\" is a notable work by H. G. Wells, first published in 1900. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8232021-M.jpg"
+  },
+  {
+    "id": "26",
+    "title": "The Complete Life and Adventures of Santa Claus",
+    "author": "L. Frank Baum",
+    "genre": "Children's Fantasy",
+    "year": 1902,
+    "description": "\"The Complete Life and Adventures of Santa Claus\" is a notable work by L. Frank Baum, first published in 1902. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/1979059-M.jpg"
+  },
+  {
+    "id": "27",
+    "title": "The King in Yellow",
+    "author": "Robert W. Chambers",
+    "genre": "Weird Fiction",
+    "year": 1895,
+    "description": "\"The King in Yellow\" is a notable work by Robert W. Chambers, first published in 1895. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/4752788-M.jpg"
+  },
+  {
+    "id": "28",
+    "title": "Jo's Boys",
+    "author": "Louisa May Alcott",
+    "genre": "Coming-of-Age",
+    "year": 1886,
+    "description": "\"Jo's Boys\" is a notable work by Louisa May Alcott, first published in 1886. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/13166184-M.jpg"
+  },
+  {
+    "id": "29",
+    "title": "Of Human Bondage",
+    "author": "William Somerset Maugham",
+    "genre": "Semi-autobiographical Novel",
+    "year": 1915,
+    "description": "\"Of Human Bondage\" is a notable work by William Somerset Maugham, first published in 1915. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/5277723-M.jpg"
+  },
+  {
+    "id": "30",
+    "title": "Herland",
+    "author": "Charlotte Perkins Gilman",
+    "genre": "Utopian Fiction",
+    "year": 1915,
+    "description": "\"Herland\" is a notable work by Charlotte Perkins Gilman, first published in 1915. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/448130-M.jpg"
+  },
+  {
+    "id": "31",
+    "title": "The Power of Darkness",
+    "author": "Edith Nesbit",
+    "genre": "Supernatural Fiction",
+    "year": 2006,
+    "description": "\"The Power of Darkness\" is a notable work by Edith Nesbit, first published in 2006. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/882715-M.jpg"
+  },
+  {
+    "id": "32",
+    "title": "Dorothy and the Wizard in Oz",
+    "author": "L. Frank Baum",
+    "genre": "Children's Fantasy",
+    "year": 1908,
+    "description": "\"Dorothy and the Wizard in Oz\" is a notable work by L. Frank Baum, first published in 1908. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/12648659-M.jpg"
+  },
+  {
+    "id": "33",
+    "title": "Carmilla",
+    "author": "Sheridan Le Fanu",
+    "genre": "Gothic Horror",
+    "year": 1871,
+    "description": "\"Carmilla\" is a notable work by Sheridan Le Fanu, first published in 1871. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/973851-M.jpg"
+  },
+  {
+    "id": "34",
+    "title": "The Phoenix and the Carpet",
+    "author": "Edith Nesbit",
+    "genre": "Children's Fantasy",
+    "year": 1903,
+    "description": "\"The Phoenix and the Carpet\" is a notable work by Edith Nesbit, first published in 1903. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/902122-M.jpg"
+  },
+  {
+    "id": "35",
+    "title": "The Mystery of the Blue Train",
+    "author": "Agatha Christie",
+    "genre": "Detective Fiction",
+    "year": 1928,
+    "description": "\"The Mystery of the Blue Train\" is a notable work by Agatha Christie, first published in 1928. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/14575533-M.jpg"
+  },
+  {
+    "id": "36",
+    "title": "Kim",
+    "author": "Rudyard Kipling",
+    "genre": "Espionage Novel",
+    "year": 1901,
+    "description": "\"Kim\" is a notable work by Rudyard Kipling, first published in 1901. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/1053011-M.jpg"
+  },
+  {
+    "id": "37",
+    "title": "Daddy-Long-Legs",
+    "author": "Jean Webster",
+    "genre": "Epistolary Novel",
+    "year": 1912,
+    "description": "\"Daddy-Long-Legs\" is a notable work by Jean Webster, first published in 1912. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8266414-M.jpg"
+  },
+  {
+    "id": "38",
+    "title": "The Man in the Brown Suit",
+    "author": "Agatha Christie",
+    "genre": "Detective Fiction",
+    "year": 1924,
+    "description": "\"The Man in the Brown Suit\" is a notable work by Agatha Christie, first published in 1924. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/11153508-M.jpg"
+  },
+  {
+    "id": "39",
+    "title": "A Little Princess",
+    "author": "Frances Hodgson Burnett",
+    "genre": "Children's Literature",
+    "year": 1905,
+    "description": "\"A Little Princess\" is a notable work by Frances Hodgson Burnett, first published in 1905. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/2328315-M.jpg"
+  },
+  {
+    "id": "40",
+    "title": "The Beautiful and Damned",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Jazz Age Novel",
+    "year": 1920,
+    "description": "\"The Beautiful and Damned\" is a notable work by F. Scott Fitzgerald, first published in 1920. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/7152019-M.jpg"
+  },
+  {
+    "id": "41",
+    "title": "Under the Greenwood Tree or, The Mellstock quire",
+    "author": "Thomas Hardy",
+    "genre": "Pastoral Romance",
+    "year": 1872,
+    "description": "\"Under the Greenwood Tree or, The Mellstock quire\" is a notable work by Thomas Hardy, first published in 1872. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/902186-M.jpg"
+  },
+  {
+    "id": "42",
+    "title": "A Princess of Mars",
+    "author": "Edgar Rice Burroughs",
+    "genre": "Planetary Romance",
+    "year": 1917,
+    "description": "\"A Princess of Mars\" is a notable work by Edgar Rice Burroughs, first published in 1917. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/207226-M.jpg"
+  },
+  {
+    "id": "43",
+    "title": "On the Beach",
+    "author": "Nevil Shute",
+    "genre": "Post-Apocalyptic Fiction",
+    "year": 1957,
+    "description": "\"On the Beach\" is a notable work by Nevil Shute, first published in 1957. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/997896-M.jpg"
+  },
+  {
+    "id": "44",
+    "title": "Howards End",
+    "author": "E. M. Forster",
+    "genre": "Literary Fiction",
+    "year": 1910,
+    "description": "\"Howards End\" is a notable work by E. M. Forster, first published in 1910. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8235207-M.jpg"
+  },
+  {
+    "id": "45",
+    "title": "The Black Cat",
+    "author": "Edgar Allan Poe",
+    "genre": "Gothic Horror",
+    "year": 1914,
+    "description": "\"The Black Cat\" is a notable work by Edgar Allan Poe, first published in 1914. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/11709016-M.jpg"
+  },
+  {
+    "id": "46",
+    "title": "The Jewel of Seven Stars",
+    "author": "Bram Stoker",
+    "genre": "Mummy Horror",
+    "year": 1902,
+    "description": "\"The Jewel of Seven Stars\" is a notable work by Bram Stoker, first published in 1902. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/2760301-M.jpg"
+  },
+  {
+    "id": "47",
+    "title": "Shirley",
+    "author": "Charlotte Brontë",
+    "genre": "Social Novel",
+    "year": 1800,
+    "description": "\"Shirley\" is a notable work by Charlotte Brontë, first published in 1800. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/11024634-M.jpg"
+  },
+  {
+    "id": "48",
+    "title": "Мастер и Маргарита",
+    "author": "Михаил Афанасьевич Булгаков",
+    "genre": "Magical Realism",
+    "year": 1966,
+    "description": "\"Мастер и Маргарита\" is a notable work by Михаил Афанасьевич Булгаков, first published in 1966. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/12947486-M.jpg"
+  },
+  {
+    "id": "49",
+    "title": "An American Tragedy",
+    "author": "Theodore Dreiser",
+    "genre": "Crime Fiction / Naturalism",
+    "year": 1900,
+    "description": "\"An American Tragedy\" is a notable work by Theodore Dreiser, first published in 1900. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/12728401-M.jpg"
+  },
+  {
+    "id": "50",
+    "title": "The Story of the Amulet",
+    "author": "Edith Nesbit",
+    "genre": "Children's Fantasy",
+    "year": 1905,
+    "description": "\"The Story of the Amulet\" is a notable work by Edith Nesbit, first published in 1905. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/13241470-M.jpg"
+  },
+  {
+    "id": "51",
+    "title": "Sult",
+    "author": "Knut Hamsun",
+    "genre": "Psychological Fiction",
+    "year": 1890,
+    "description": "\"Sult\" is a notable work by Knut Hamsun, first published in 1890. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/10472647-M.jpg"
+  },
+  {
+    "id": "52",
+    "title": "Jamaica Inn",
+    "author": "Daphne du Maurier",
+    "genre": "Gothic Mystery",
+    "year": 1936,
+    "description": "\"Jamaica Inn\" is a notable work by Daphne du Maurier, first published in 1936. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8765960-M.jpg"
+  },
+  {
+    "id": "53",
+    "title": "The Book of Dragons",
+    "author": "Edith Nesbit",
+    "genre": "Children's Fantasy",
+    "year": 1973,
+    "description": "\"The Book of Dragons\" is a notable work by Edith Nesbit, first published in 1973. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/4342323-M.jpg"
+  },
+  {
+    "id": "54",
+    "title": "The World Set Free",
+    "author": "H. G. Wells",
+    "genre": "Science Fiction",
+    "year": 1914,
+    "description": "\"The World Set Free\" is a notable work by H. G. Wells, first published in 1914. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8246099-M.jpg"
+  },
+  {
+    "id": "55",
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Philosophical Fiction",
+    "year": 1890,
+    "description": "\"The Picture of Dorian Gray\" is a notable work by Oscar Wilde, first published in 1890. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/14314858-M.jpg"
+  },
+  {
+    "id": "56",
+    "title": "She",
+    "author": "H. Rider Haggard",
+    "genre": "Lost World Fantasy",
+    "year": 1886,
+    "description": "\"She\" is a notable work by H. Rider Haggard, first published in 1886. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/295537-M.jpg"
+  },
+  {
+    "id": "57",
+    "title": "Voyage au Centre de la Terre",
+    "author": "Jules Verne",
+    "genre": "Science Fiction",
+    "year": 1867,
+    "description": "\"Voyage au Centre de la Terre\" is a notable work by Jules Verne, first published in 1867. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/5890987-M.jpg"
+  },
+  {
+    "id": "58",
+    "title": "The First Men in the Moon",
+    "author": "H. G. Wells",
+    "genre": "Science Fiction",
+    "year": 1900,
+    "description": "\"The First Men in the Moon\" is a notable work by H. G. Wells, first published in 1900. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8081288-M.jpg"
+  },
+  {
+    "id": "59",
+    "title": "The Invisible Man",
+    "author": "H. G. Wells",
+    "genre": "Science Fiction",
+    "year": 0,
+    "description": "\"The Invisible Man\" is a notable work by H. G. Wells, first published in 0. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/6419199-M.jpg"
+  },
+  {
+    "id": "60",
+    "title": "Momo oder Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zurückbrachte",
+    "author": "Michael Ende",
+    "genre": "Children's Fantasy",
+    "year": 1973,
+    "description": "\"Momo oder Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zurückbrachte\" is a notable work by Michael Ende, first published in 1973. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8574580-M.jpg"
+  },
+  {
+    "id": "61",
+    "title": "Mrs. Dalloway",
+    "author": "Virginia Woolf",
+    "genre": "Modernist Fiction",
+    "year": 1925,
+    "description": "\"Mrs. Dalloway\" is a notable work by Virginia Woolf, first published in 1925. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/6397580-M.jpg"
+  },
+  {
+    "id": "62",
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "genre": "Modernist Fiction",
+    "year": 1926,
+    "description": "\"The Sun Also Rises\" is a notable work by Ernest Hemingway, first published in 1926. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/78741-M.jpg"
+  },
+  {
+    "id": "63",
+    "title": "Der Zauberberg",
+    "author": "Thomas Mann",
+    "genre": "Philosophical Novel",
+    "year": 1924,
+    "description": "\"Der Zauberberg\" is a notable work by Thomas Mann, first published in 1924. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/2056242-M.jpg"
+  },
+  {
+    "id": "64",
+    "title": "The Secret of Chimneys",
+    "author": "Agatha Christie",
+    "genre": "Detective Fiction",
+    "year": 1925,
+    "description": "\"The Secret of Chimneys\" is a notable work by Agatha Christie, first published in 1925. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/12996574-M.jpg"
+  },
+  {
+    "id": "65",
+    "title": "The Silmarillion",
+    "author": "J.R.R. Tolkien",
+    "genre": "High Fantasy",
+    "year": 1977,
+    "description": "\"The Silmarillion\" is a notable work by J.R.R. Tolkien, first published in 1977. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/14627042-M.jpg"
+  },
+  {
+    "id": "66",
+    "title": "Villette, a novel",
+    "author": "Charlotte Brontë",
+    "genre": "Psychological Fiction",
+    "year": 1853,
+    "description": "\"Villette, a novel\" is a notable work by Charlotte Brontë, first published in 1853. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/5737854-M.jpg"
+  },
+  {
+    "id": "67",
+    "title": "Kidnapped",
+    "author": "Robert Louis Stevenson",
+    "genre": "Historical Adventure",
+    "year": 1886,
+    "description": "\"Kidnapped\" is a notable work by Robert Louis Stevenson, first published in 1886. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8267822-M.jpg"
+  },
+  {
+    "id": "68",
+    "title": "Eva Luna",
+    "author": "Isabel Allende",
+    "genre": "Magical Realism",
+    "year": 1987,
+    "description": "\"Eva Luna\" is a notable work by Isabel Allende, first published in 1987. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/3205240-M.jpg"
+  },
+  {
+    "id": "69",
+    "title": "La Peste",
+    "author": "Albert Camus",
+    "genre": "Existential Fiction",
+    "year": 1942,
+    "description": "\"La Peste\" is a notable work by Albert Camus, first published in 1942. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/13151272-M.jpg"
+  },
+  {
+    "id": "70",
+    "title": "Demian",
+    "author": "Hermann Hesse",
+    "genre": "Bildungsroman",
+    "year": 1919,
+    "description": "\"Demian\" is a notable work by Hermann Hesse, first published in 1919. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/12569297-M.jpg"
+  },
+  {
+    "id": "71",
+    "title": "White Fang",
+    "author": "Jack London",
+    "genre": "Adventure Fiction",
+    "year": 1905,
+    "description": "\"White Fang\" is a notable work by Jack London, first published in 1905. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8236920-M.jpg"
+  },
+  {
+    "id": "72",
+    "title": "The Old Curiosity Shop",
+    "author": "Charles Dickens",
+    "genre": "Victorian Literature",
+    "year": 1800,
+    "description": "\"The Old Curiosity Shop\" is a notable work by Charles Dickens, first published in 1800. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/13119794-M.jpg"
+  },
+  {
+    "id": "73",
+    "title": "The Silver Chair",
+    "author": "C. S. Lewis",
+    "genre": "Children's Fantasy",
+    "year": 1953,
+    "description": "\"The Silver Chair\" is a notable work by C. S. Lewis, first published in 1953. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/6950992-M.jpg"
+  },
+  {
+    "id": "74",
+    "title": "The Scarlet Pimpernel",
+    "author": "Emma Orczy",
+    "genre": "Historical Adventure",
+    "year": 1900,
+    "description": "\"The Scarlet Pimpernel\" is a notable work by Emma Orczy, first published in 1900. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/479102-M.jpg"
+  },
+  {
+    "id": "75",
+    "title": "The Innocence of Father Brown (Father Brown Mystery)",
+    "author": "Gilbert Keith Chesterton",
+    "genre": "Mystery",
+    "year": 1583,
+    "description": "\"The Innocence of Father Brown (Father Brown Mystery)\" is a notable work by Gilbert Keith Chesterton, first published in 1583. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/94081-M.jpg"
+  },
+  {
+    "id": "76",
+    "title": "The Riddle of the Sands",
+    "author": "Erskine Childers",
+    "genre": "Spy Thriller",
+    "year": 1903,
+    "description": "\"The Riddle of the Sands\" is a notable work by Erskine Childers, first published in 1903. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/2293974-M.jpg"
+  },
+  {
+    "id": "77",
+    "title": "Le fantôme de l'opéra",
+    "author": "Gaston Leroux",
+    "genre": "Gothic Mystery",
+    "year": 1911,
+    "description": "\"Le fantôme de l'opéra\" is a notable work by Gaston Leroux, first published in 1911. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8245407-M.jpg"
+  },
+  {
+    "id": "78",
+    "title": "Ordeal by Innocence",
+    "author": "Agatha Christie",
+    "genre": "Detective Fiction",
+    "year": 1958,
+    "description": "\"Ordeal by Innocence\" is a notable work by Agatha Christie, first published in 1958. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/14586345-M.jpg"
+  },
+  {
+    "id": "79",
+    "title": "Ivanhoe",
+    "author": "Sir Walter Scott",
+    "genre": "Historical Fiction",
+    "year": 1800,
+    "description": "\"Ivanhoe\" is a notable work by Sir Walter Scott, first published in 1800. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/314235-M.jpg"
+  },
+  {
+    "id": "80",
+    "title": "A Room with a View",
+    "author": "E. M. Forster",
+    "genre": "Romance / Social Comedy",
+    "year": 1905,
+    "description": "\"A Room with a View\" is a notable work by E. M. Forster, first published in 1905. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/1748132-M.jpg"
+  },
+  {
+    "id": "81",
+    "title": "The Last Battle",
+    "author": "C. S. Lewis",
+    "genre": "Children's Fantasy",
+    "year": 1956,
+    "description": "\"The Last Battle\" is a notable work by C. S. Lewis, first published in 1956. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/6529226-M.jpg"
+  },
+  {
+    "id": "82",
+    "title": "It Can't Happen Here",
+    "author": "Sinclair Lewis",
+    "genre": "Political Satire",
+    "year": 1935,
+    "description": "\"It Can't Happen Here\" is a notable work by Sinclair Lewis, first published in 1935. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/12719018-M.jpg"
+  },
+  {
+    "id": "83",
+    "title": "A Passage to India",
+    "author": "E. M. Forster",
+    "genre": "Historical Fiction",
+    "year": 1924,
+    "description": "\"A Passage to India\" is a notable work by E. M. Forster, first published in 1924. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/1921995-M.jpg"
+  },
+  {
+    "id": "84",
+    "title": "Anne of Avonlea",
+    "author": "Lucy Maud Montgomery",
+    "genre": "Coming-of-Age",
+    "year": 1909,
+    "description": "\"Anne of Avonlea\" is a notable work by Lucy Maud Montgomery, first published in 1909. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/14638062-M.jpg"
+  },
+  {
+    "id": "85",
+    "title": "After the Funeral",
+    "author": "Agatha Christie",
+    "genre": "Detective Fiction",
+    "year": 1953,
+    "description": "\"After the Funeral\" is a notable work by Agatha Christie, first published in 1953. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/12996535-M.jpg"
+  },
+  {
+    "id": "86",
+    "title": "Tik-Tok of Oz",
+    "author": "L. Frank Baum",
+    "genre": "Children's Fantasy",
+    "year": 1914,
+    "description": "\"Tik-Tok of Oz\" is a notable work by L. Frank Baum, first published in 1914. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243277-M.jpg"
+  },
+  {
+    "id": "87",
+    "title": "The Hollow",
+    "author": "Agatha Christie",
+    "genre": "Detective Fiction",
+    "year": 1946,
+    "description": "\"The Hollow\" is a notable work by Agatha Christie, first published in 1946. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/13679064-M.jpg"
+  },
+  {
+    "id": "88",
+    "title": "Murder on the Links",
+    "author": "Agatha Christie",
+    "genre": "Detective Fiction",
+    "year": 1923,
+    "description": "\"Murder on the Links\" is a notable work by Agatha Christie, first published in 1923. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/14582832-M.jpg"
+  },
+  {
+    "id": "89",
+    "title": "The Princess and the Goblin",
+    "author": "George MacDonald",
+    "genre": "Children's Fantasy",
+    "year": 1872,
+    "description": "\"The Princess and the Goblin\" is a notable work by George MacDonald, first published in 1872. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/14363454-M.jpg"
+  },
+  {
+    "id": "90",
+    "title": "The Twits",
+    "author": "Roald Dahl",
+    "genre": "Children's Fiction",
+    "year": 1967,
+    "description": "\"The Twits\" is a notable work by Roald Dahl, first published in 1967. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/14838233-M.jpg"
+  },
+  {
+    "id": "91",
+    "title": "The Lost World",
+    "author": "Arthur Conan Doyle",
+    "genre": "Science Fiction",
+    "year": 1900,
+    "description": "\"The Lost World\" is a notable work by Arthur Conan Doyle, first published in 1900. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8231444-M.jpg"
+  },
+  {
+    "id": "92",
+    "title": "Sons and Lovers",
+    "author": "D. H. Lawrence",
+    "genre": "Modernist Fiction",
+    "year": 1913,
+    "description": "\"Sons and Lovers\" is a notable work by D. H. Lawrence, first published in 1913. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8246175-M.jpg"
+  },
+  {
+    "id": "93",
+    "title": "The Legend of Sleepy Hollow",
+    "author": "Washington Irving",
+    "genre": "Gothic Horror",
+    "year": 1820,
+    "description": "\"The Legend of Sleepy Hollow\" is a notable work by Washington Irving, first published in 1820. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243083-M.jpg"
+  },
+  {
+    "id": "94",
+    "title": "His Last Bow [8 stories]",
+    "author": "Arthur Conan Doyle",
+    "genre": "Detective Fiction",
+    "year": 1917,
+    "description": "\"His Last Bow [8 stories]\" is a notable work by Arthur Conan Doyle, first published in 1917. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243267-M.jpg"
+  },
+  {
+    "id": "95",
+    "title": "The Valley of Fear",
+    "author": "Arthur Conan Doyle",
+    "genre": "Detective Fiction",
+    "year": 1914,
+    "description": "\"The Valley of Fear\" is a notable work by Arthur Conan Doyle, first published in 1914. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8350377-M.jpg"
+  },
+  {
+    "id": "96",
+    "title": "The Magician's Nephew",
+    "author": "C. S. Lewis",
+    "genre": "Children's Fantasy",
+    "year": 1955,
+    "description": "\"The Magician's Nephew\" is a notable work by C. S. Lewis, first published in 1955. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/1072931-M.jpg"
+  },
+  {
+    "id": "97",
+    "title": "Der Steppenwolf",
+    "author": "Hermann Hesse",
+    "genre": "Psychological Fiction",
+    "year": 1927,
+    "description": "\"Der Steppenwolf\" is a notable work by Hermann Hesse, first published in 1927. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/3221083-M.jpg"
+  },
+  {
+    "id": "98",
+    "title": "Memoirs of Fanny Hill",
+    "author": "John Cleland",
+    "genre": "Erotic Novel",
+    "year": 1749,
+    "description": "\"Memoirs of Fanny Hill\" is a notable work by John Cleland, first published in 1749. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/12947584-M.jpg"
+  },
+  {
+    "id": "99",
+    "title": "Appointment with Death",
+    "author": "Agatha Christie",
+    "genre": "Detective Fiction",
+    "year": 1938,
+    "description": "\"Appointment with Death\" is a notable work by Agatha Christie, first published in 1938. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/14561660-M.jpg"
+  },
+  {
+    "id": "100",
+    "title": "The Godfather",
+    "author": "Mario Puzo",
+    "genre": "Crime Fiction",
+    "year": 1969,
+    "description": "\"The Godfather\" is a notable work by Mario Puzo, first published in 1969. It is widely recognized in the fiction genre and remains a significant part of literary collections.",
+    "cover_url": "https://covers.openlibrary.org/b/id/6507069-M.jpg"
+  }
+]
